@@ -1,0 +1,83 @@
+Política de Seguridad de la Aplicación
+1. Introducción
+
+La presente Política de Seguridad describe las medidas adoptadas para proteger la información registrada en la aplicación, garantizando la confidencialidad, integridad y disponibilidad de los datos relacionados con la gestión productiva y financiera de la finca.
+
+El uso de la aplicación implica la aceptación de esta política.
+
+2. Protección de la Información
+
+La aplicación implementa medidas técnicas y organizativas razonables para proteger los datos contra accesos no autorizados, pérdida, alteración o divulgación indebida.
+
+Los datos se almacenan de forma local en el dispositivo del usuario mediante una base de datos segura (SQLite / Room Database).
+
+No se comparte información con terceros sin autorización expresa del usuario.
+
+No se accede a información distinta a la estrictamente necesaria para el funcionamiento de la aplicación.
+
+3. Acceso y Control de Datos
+
+El usuario es el único responsable del acceso a su dispositivo móvil.
+
+La aplicación no gestiona credenciales bancarias ni información financiera sensible externa.
+
+Los registros de producción, ventas y gastos solo pueden ser creados, editados o eliminados por el usuario.
+
+4. Uso de Inteligencia Artificial (IA)
+
+La funcionalidad de IA analiza exclusivamente los datos ingresados por el usuario dentro de la aplicación.
+
+Las recomendaciones generadas son de carácter informativo y orientativo, no sustituyen asesoría técnica, veterinaria, financiera o profesional.
+
+En caso de utilizar una API Key de IA, esta se almacena de forma local y segura en el dispositivo del usuario.
+
+5. Generación de Reportes (PDF)
+
+Los reportes generados contienen únicamente la información registrada por el usuario.
+
+Los archivos PDF se crean localmente en el dispositivo y no se envían automáticamente a servidores externos.
+
+El usuario decide libremente si desea compartir o almacenar dichos reportes.
+
+6. Permisos de la Aplicación
+
+La aplicación solo solicita los permisos estrictamente necesarios para su funcionamiento, tales como:
+
+Acceso a almacenamiento local (para generar y guardar reportes PDF).
+
+Acceso a configuraciones del sistema para idioma, tema y escala de texto.
+
+No se accede a contactos, ubicación, cámara ni micrófono sin justificación funcional.
+
+7. Respaldo y Pérdida de Datos
+
+La aplicación no garantiza copias de seguridad automáticas.
+
+Es responsabilidad del usuario realizar respaldos periódicos si el sistema operativo lo permite.
+
+El desarrollador no se hace responsable por pérdida de información causada por daño, robo, formateo del dispositivo o desinstalación de la aplicación.
+
+8. Actualizaciones y Mejoras de Seguridad
+
+La aplicación puede recibir actualizaciones periódicas para mejorar la seguridad, estabilidad y funcionalidad.
+
+Se recomienda mantener la app actualizada a la última versión disponible.
+
+9. Limitación de Responsabilidad
+
+El desarrollador no será responsable por:
+
+Decisiones tomadas por el usuario basadas en los análisis o recomendaciones de la aplicación.
+
+Daños indirectos derivados del uso incorrecto de la app.
+
+Errores en los datos ingresados manualmente por el usuario.
+
+10. Cambios en la Política de Seguridad
+
+Esta política puede actualizarse en cualquier momento para reflejar mejoras o cambios normativos.
+Las modificaciones entrarán en vigor una vez publicadas dentro de la aplicación.
+
+11. Contacto
+
+Para dudas, sugerencias o reportes de seguridad, el usuario podrá comunicarse a través de los canales oficiales indicados en la aplicación.
