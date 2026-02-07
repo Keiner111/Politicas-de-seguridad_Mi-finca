@@ -1,0 +1,135 @@
+POLÍTICA DE PRIVACIDAD
+
+Gestor de Préstamos Personales
+
+Última actualización:
+
+1. Introducción
+
+La presente Política de Privacidad describe cómo Gestor de Préstamos Personales recopila, utiliza y protege la información del usuario.
+Esta aplicación no ofrece préstamos, no intermedia dinero ni actúa como entidad financiera. Su finalidad es exclusivamente administrativa y de control personal.
+
+2. Información que recopilamos
+
+La aplicación puede recopilar y almacenar la siguiente información únicamente ingresada por el usuario:
+
+📌 Información de clientes
+
+Nombres y apellidos
+
+Documento de identificación
+
+Teléfono
+
+Correo electrónico
+
+Dirección
+
+📌 Información financiera
+
+Datos de préstamos registrados
+
+Cuotas, pagos, intereses y saldos
+
+Historial de pagos y recibos
+
+📌 Información técnica
+
+Preferencias de idioma, moneda y tema
+
+Configuración de seguridad (PIN, biometría)
+
+Datos necesarios para copias de seguridad
+
+⚠️ No recopilamos datos bancarios, tarjetas de crédito, cuentas financieras ni credenciales personales.
+
+3. Uso de la información
+
+La información se utiliza exclusivamente para:
+
+Gestionar clientes y préstamos
+
+Calcular cuotas, intereses y saldos
+
+Generar reportes y estadísticas
+
+Mostrar recordatorios y notificaciones
+
+Crear copias de seguridad locales o en la nube (si el usuario lo activa)
+
+4. Almacenamiento de datos
+
+Los datos se almacenan localmente en el dispositivo del usuario.
+
+Opcionalmente, el usuario puede habilitar sincronización en la nube (Firebase) para respaldo y restauración.
+
+El desarrollador no accede, revisa ni vende información personal.
+
+5. Compartición de información
+
+La aplicación NO comparte datos con terceros, excepto:
+
+Cuando el usuario decide exportar o compartir reportes (PDF, WhatsApp, email).
+
+Cuando el usuario habilita servicios externos como Firebase o Google Drive para respaldo.
+
+6. Seguridad de la información
+
+Implementamos medidas de seguridad como:
+
+Protección con PIN
+
+Autenticación biométrica (si el dispositivo lo permite)
+
+Bloqueo automático al volver a la aplicación
+
+Eliminación segura de datos
+
+7. Eliminación de datos
+
+El usuario puede:
+
+Eliminar clientes, préstamos y pagos
+
+Borrar completamente los datos desinstalando la aplicación
+
+8. Permisos utilizados
+
+La aplicación puede solicitar permisos para:
+
+Acceso a almacenamiento (exportar/importar archivos)
+
+Notificaciones (recordatorios de pago)
+
+Biometría (seguridad)
+
+Internet (sincronización opcional)
+
+Estos permisos no se utilizan para rastreo ni publicidad.
+
+9. Menores de edad
+
+Esta aplicación no está dirigida a menores de 18 años.
+No recopilamos intencionalmente información de menores.
+
+10. Cambios en esta política
+
+Nos reservamos el derecho de actualizar esta Política de Privacidad.
+Cualquier cambio será notificado dentro de la aplicación.
+
+11. Contacto
+
+Si tienes dudas sobre esta Política de Privacidad, puedes contactarnos en:
+
+📧 Correo: [tu correo aquí]
+📱 Nombre de la app: Gestor de Préstamos Personales
+
+✅ Cumplimiento
+
+Esta aplicación cumple con:
+
+Políticas de Google Play
+
+Normas de protección de datos aplicables
+
+Uso responsable de la información
