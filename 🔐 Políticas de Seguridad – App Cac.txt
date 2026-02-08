@@ -1,0 +1,79 @@
+🔐 Políticas de Seguridad – App Cacao
+
+La aplicación Cacao está comprometida con la protección de la información de sus usuarios, garantizando la confidencialidad, integridad y disponibilidad de los datos registrados dentro de la plataforma.
+
+1️⃣ Protección de la Información
+
+Todos los datos ingresados en la aplicación (producción, ventas, gastos, clientes y fincas) son tratados como información confidencial.
+
+La información se almacena de forma segura en el dispositivo del usuario y, cuando se habilita, en servicios de almacenamiento en la nube.
+
+No se comparten datos con terceros sin autorización expresa del usuario.
+
+2️⃣ Acceso y Autenticación
+
+El acceso a la aplicación está restringido únicamente al usuario autorizado.
+
+Las configuraciones de sincronización y respaldo solo pueden ser modificadas desde el módulo de Ajustes.
+
+Se recomienda el uso de medidas de seguridad del dispositivo (PIN, patrón, huella o reconocimiento facial).
+
+3️⃣ Seguridad en el Almacenamiento
+
+Los datos locales se almacenan de forma estructurada y protegida.
+
+Los archivos de respaldo (backup) se generan en formatos seguros (JSON).
+
+El usuario tiene control total sobre la exportación e importación de su información.
+
+4️⃣ Sincronización en la Nube
+
+La sincronización con la nube se realiza mediante servicios seguros (Firebase).
+
+La transmisión de datos se efectúa utilizando protocolos cifrados.
+
+El usuario puede activar o desactivar la sincronización en cualquier momento.
+
+No se realizan sincronizaciones sin consentimiento del usuario.
+
+5️⃣ Integridad de los Datos
+
+La aplicación previene modificaciones no autorizadas de la información.
+
+Las funciones de edición y eliminación de registros están controladas desde la interfaz de usuario.
+
+Los cambios realizados quedan reflejados de manera inmediata en los reportes y análisis.
+
+6️⃣ Copias de Seguridad y Recuperación
+
+La app permite crear copias de seguridad manuales.
+
+Los datos pueden ser restaurados desde un archivo local o desde la nube.
+
+El usuario es responsable de conservar sus archivos de respaldo.
+
+7️⃣ Permisos de la Aplicación
+
+La aplicación solo solicita permisos estrictamente necesarios para su funcionamiento.
+
+No accede a información personal del dispositivo que no esté relacionada con la operación de la app.
+
+No realiza grabaciones, monitoreo ni acceso oculto a recursos del sistema.
+
+8️⃣ Responsabilidad del Usuario
+
+El usuario es responsable de la veracidad de la información registrada.
+
+Debe proteger el acceso a su dispositivo para evitar el uso no autorizado.
+
+La pérdida de información por eliminación manual o mal uso de respaldos es responsabilidad del usuario.
+
+9️⃣ Actualizaciones y Mejoras de Seguridad
+
+La aplicación puede recibir actualizaciones periódicas para mejorar la seguridad y estabilidad.
+
+Se recomienda mantener la app actualizada a la última versión disponible.
+
+🔒 Compromiso de Seguridad
+
+Cacao está diseñada para ofrecer una experiencia segura, confiable y transparente, enfocada en apoyar la gestión productiva y administrativa del cultivo de cacao sin poner en riesgo la información del usuario.
